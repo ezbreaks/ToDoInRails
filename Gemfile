@@ -45,3 +45,5 @@ group :development do
   gem 'spring'
 end
 
+
+gem 'twitter-bootstrap-rails', '~> 3.2'

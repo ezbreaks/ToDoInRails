@@ -50,3 +50,4 @@ gem 'twitter-bootstrap-rails', '~> 3.2'
 gem 'font-awesome-rails', '~> 4.4'
 gem 'simple_form', '~> 3.2'
 gem 'devise'
+gem "auto_html"
